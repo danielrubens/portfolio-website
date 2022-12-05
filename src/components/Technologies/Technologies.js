@@ -6,6 +6,7 @@ import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './Techn
 const Technologies = () =>  (
   <Section id='tech'>
     <SectionDivider />
+    <br />
     <SectionTitle>Techonologies</SectionTitle>
     <SectionText>
       I've worked with MERN Stack, GIS Development, Python Bots and Clean Architecture.
