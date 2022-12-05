@@ -4,7 +4,7 @@ import { Section, SectionText, SectionTitle } from '../../styles/GlobalComponent
 import Button from '../../styles/GlobalComponents/Button';
 import { LeftSection } from './HeroStyles';
 
-const Hero = (props) => (
+const Hero = () => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
@@ -14,6 +14,7 @@ const Hero = (props) => (
       <SectionText>
         Here you have some of my projects, approaching Python Bots, Geographic Information System, Node and React.
       </SectionText>
+      <Button onClick={() => window.location = 'htttps://google.com'}>Learn More</Button>
     </LeftSection>
   </Section>
 );
