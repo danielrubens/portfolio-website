@@ -7,9 +7,9 @@ const Technologies = () =>  (
   <Section id='tech'>
     <SectionDivider />
     <br />
-    <SectionTitle>Techonologies</SectionTitle>
+    <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with MERN Stack, GIS Development, Python Bots and Clean Architecture.
+      I've worked with MERN Stack, GIS Development, Python Bots, ORM, TDD, SOLID Principles and Clean Architecture.
     </SectionText>
     <List>
       <ListItem>

@@ -14,7 +14,7 @@ const Hero = (project) => (
       <SectionText>
         Here you have some of my projects, approaching Python Bots, Geographic Information System, Node and React.
       </SectionText>
-      <Button onClick={() => window.location = 'htttps://google.com'}>Learn More</Button>
+      <Button onClick={() => window.location = 'https://github.com/danielrubens'}>More Projects</Button>
     </LeftSection>
   </Section>
 );
