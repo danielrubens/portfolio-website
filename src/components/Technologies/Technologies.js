@@ -1,5 +1,5 @@
 import React from 'react';
-import { DiFirebase, DiReact, DiZend } from 'react-icons/di';
+import { DiFirebase, DiReact, DiPython } from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
@@ -12,11 +12,29 @@ const Technologies = () =>  (
     </SectionText>
     <List>
       <ListItem>
-        <DiFirebase size='3rem'/>
+        <DiReact size='3rem'/>
         <ListContainer>
           <ListTitle>Front-end</ListTitle>
           <ListParagraph>Experience with <br />
           React.js
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <DiFirebase size='3rem'/>
+        <ListContainer>
+          <ListTitle>Back-end</ListTitle>
+          <ListParagraph>Experience with <br />
+          Node and Databases
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <DiPython size='3rem'/>
+        <ListContainer>
+          <ListTitle>Python</ListTitle>
+          <ListParagraph>Experience with <br />
+          Python and GIS Development
           </ListParagraph>
         </ListContainer>
       </ListItem>
