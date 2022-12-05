@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'Python Bots',
-    description: "ETL using Python, Selenium and WebDrier and sending data to a GoogleSheet",
+    description: "ETL using Python, Selenium and WebDriver and sending data to a Google Sheet",
     image: '/images/8.jpeg',
     tags: ['Python', 'Selenium', 'WebDriver'],
     source: 'https://github.com/danielrubens/web-scraper-google-sheet',
@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'E-Commerce',
-    description:"Routes on NextJS, payment with Stripe and Sanity to store products",
+    description:"Routes on NextJS, payment with Stripe and Sanity to store products.",
     image: '/images/6.jpeg',
     tags: ['React', 'NextJS', 'JavaScript'],
     source: 'https://github.com/danielrubens/e-commerce',
