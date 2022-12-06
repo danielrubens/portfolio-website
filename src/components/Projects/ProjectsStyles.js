@@ -101,6 +101,9 @@ transition: 0.5s;
 }
 `;
 
+export const LinkImage = styled.a`
+`;
+
 export const TagList = styled.ul`
 display: flex;
 justify-content: space-around;
