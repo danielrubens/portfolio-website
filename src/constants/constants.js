@@ -40,8 +40,8 @@ export const projects = [
 
 export const TimeLineData = [
   { year: 2011, text: 'Started as teacher on Tutoring', },
-  { year: 2013, text: 'Robotics Monitor on Institute of Information and Communication Technology', },
-  { year: 2017, text: 'Search and Mapping Agent on Brazilian Institute of Geography and Statistics', },
-  { year: 2020, text: 'Robotics Coordinator on Institute CENAPLI', },
+  { year: 2013, text: 'Robotics Monitor at Institute of Information and Communication Technology', },
+  { year: 2017, text: 'Search and Mapping Agent at Brazilian Institute of Geography and Statistics', },
+  { year: 2020, text: 'Robotics Coordinator at Institute CENAPLI', },
   { year: 2021, text: 'Started the path to become a developer', },
 ];
